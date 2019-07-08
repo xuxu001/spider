@@ -15,6 +15,7 @@ class QiushiSpider(scrapy.Spider):
         # print(result)
         #分组
         li_list = response.xpath('//*[@id="content-left"]/div')
+        print(li_list)
         for li in li_list:
             item = {}
             item['body']=li.xpath('.//a/div/span/text()').extract_first()
