@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="34530d8b-d073-4231-bbb0-79e33d0c26e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hehe/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/hehe/items.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hehe/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/hehe/pipelines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hehe/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hehe/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hehe/spiders/qiushi.py" beforeDir="false" afterPath="$PROJECT_DIR$/hehe/spiders/qiushi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hehe/spiders/ceshi.py" beforeDir="false" afterPath="$PROJECT_DIR$/hehe/spiders/ceshi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,27 +14,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hehe" />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8034516">
+    <splitter split-orientation="horizontal" split-proportion="0.48387095">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hehe/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="277">
-                  <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/hehe/spiders/ceshi.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="82">
-                  <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-                  <folding>
-                    <element signature="e#24#37#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="247">
+                  <caret line="19" column="129" selection-start-line="19" selection-start-column="129" selection-end-line="19" selection-end-column="129" />
                 </state>
               </provider>
             </entry>
@@ -50,17 +42,35 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hehe/items.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="347">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                <state relative-caret-position="420">
+                  <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/hehe/pipelines.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="632">
+                  <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hehe/pipelines.py">
+            <entry file="file://$PROJECT_DIR$/item.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
+                <state>
+                  <caret lean-forward="true" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../untitled16/venv/Lib/site-packages/scrapy/spidermiddlewares/referer.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="338" selection-start-line="338" selection-end-line="338" />
                 </state>
               </provider>
             </entry>
@@ -68,7 +78,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hehe/spiders/qiushi.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-15">
+                <state relative-caret-position="270">
                   <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="53" />
                 </state>
               </provider>
@@ -78,11 +88,47 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/hehe/spiders/qiushi.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
+                <state relative-caret-position="570">
                   <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hehe/spiders/ceshi.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="51" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/hehe/spiders/img.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="592">
+                  <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/hehe/spiders/douluo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="768">
+                  <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#24#37#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -107,18 +153,22 @@
         <option value="$PROJECT_DIR$/hehe/middlewares.py" />
         <option value="$PROJECT_DIR$/hehe/spiders/baidu.py" />
         <option value="$PROJECT_DIR$/log_a.py" />
-        <option value="$PROJECT_DIR$/hehe/settings.py" />
         <option value="$PROJECT_DIR$/hehe/spiders/qiushi.py" />
-        <option value="$PROJECT_DIR$/hehe/pipelines.py" />
         <option value="$PROJECT_DIR$/hehe/spiders/ceshi.py" />
+        <option value="$PROJECT_DIR$/hehe/spiders/tieba.py" />
+        <option value="$PROJECT_DIR$/hehe/spiders/img.py" />
+        <option value="$PROJECT_DIR$/hehe/items.py" />
+        <option value="$PROJECT_DIR$/hehe/settings.py" />
+        <option value="$PROJECT_DIR$/hehe/spiders/douluo.py" />
+        <option value="$PROJECT_DIR$/hehe/pipelines.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="799" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="542" />
+    <option name="y" value="1" />
     <option name="width" value="1367" />
-    <option name="height" value="1041" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pipelines">
+  <component name="RunManager" selected="Python.douluo">
     <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="hehe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,6 +231,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hehe/spiders/ceshi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douluo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hehe/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hehe/spiders/douluo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hehe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hehe/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hehe/spiders/img.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,6 +304,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.douluo" />
+        <item itemvalue="Python.img" />
         <item itemvalue="Python.pipelines" />
         <item itemvalue="Python.ceshi" />
       </list>
@@ -232,25 +326,45 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15068494" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" weight="0.15068494" />
+      <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.15068494" />
+      <window_info id="Favorites" order="2" sideWeight="0.5030675" side_tool="true" weight="0.15068494" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5466378" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.6941432" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297587" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29284164" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49915683" visible="true" weight="0.15068494" />
+      <window_info id="Structure" order="1" sideWeight="0.50084317" side_tool="true" weight="0.15068494" />
+      <window_info id="Favorites" order="2" sideWeight="0.5030675" side_tool="true" weight="0.15068494" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5466378" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3275488" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29284164" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hehe/middlewares.py">
@@ -287,41 +401,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hehe/settings.py">
+    <entry file="file://$PROJECT_DIR$/hehe/spiders/tieba.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hehe/spiders/qiushi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hehe/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hehe/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="259">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hehe/spiders/ceshi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="210">
+          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="51" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled16/venv/Lib/site-packages/scrapy/spidermiddlewares/referer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/spiders/img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="129" selection-start-line="19" selection-start-column="129" selection-end-line="19" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/spiders/qiushi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/spiders/douluo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hehe/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -11,4 +11,17 @@ import scrapy
 class HeheItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    text = scrapy.Field()
+    image = scrapy.Field()
+    name = scrapy.Field()
+    content = scrapy.Field()
+    heh = scrapy.Field()
+
+
+
+
+
+
+
+
     pass

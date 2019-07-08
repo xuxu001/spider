@@ -7,7 +7,19 @@
 
 
 class HehePipeline(object):
+    def open_spider(self,spider):
+        self.file = open('item.txt','w',encoding='utf-8')
+
+    def close_spider(self,spider):
+        self.file.close()
     def process_item(self, item, spider):
-        print(item)
+        try:
+            res = dict(item)
+            line = res['name']
+            tes = res['heh']
+            img = res['content']
+            self.file.write(line+'\n'+tes+'\n' +img+'\n')
+        except:
+            pass
 
         return item

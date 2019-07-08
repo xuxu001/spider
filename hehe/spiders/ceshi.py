@@ -13,7 +13,7 @@ class CeshiSpider(scrapy.Spider):
 
     def parse(self, response):
         content_list = response.xpath("//div[@id='content-left']/div")
-        # print(content_list)
+        print(content_list)
         for con in content_list:
             item ={}
             item['body']=con.xpath(".//a/div/span/text()").extract_first()
